@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Gemini Quick-Cap",
+  "version": "1.5",
+  "permissions": [
+    "activeTab", 
+    "scripting", 
+    "storage", 
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}
