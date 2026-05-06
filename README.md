@@ -1,1 +1,43 @@
-⚡ SparxAI (Maths & Science Edition)SparxAI is an advanced AI-integrated browser extension built to streamline your workflow on Sparx Maths and Science. By leveraging the Gemini 2.5 Flash-Lite model, it provides instant solutions and automated bookwork logging.🚀 Quick Start1. InstallationClone/Download the repository to your local machine.Open Chrome and navigate to chrome://extensions/.Enable Developer Mode in the top-right corner.Click Load unpacked and select the extension folder.2. ConfigurationObtain a free API key from Google AI Studio.Right-click the SparxAI icon and select Options.Paste your key and click Save.🎮 Controls & CommandsKeyActionContextZSolveCaptures the screen and generates an answer.XRecallLooks up a saved code for Bookwork Checks.HHideInstantly hides the overlay (Stealth Mode).AAppearRestores the hidden overlay.🧠 Smart Mode SwitchingThe extension dynamically adapts based on the domain you are visiting:📗 SparxMathsAIFull Suite: Solve problems + Bookwork Memory.Automatic Logging: Saves codes (e.g., 1A) to local storage automatically.Recall Ready: Use the X key to retrieve saved answers instantly.📘 SparxScienceAILean Logic: Focused entirely on problem-solving.Optimized UI: Removes unnecessary bookwork prompts for a cleaner experience.High Performance: Uses the same 2.5 Flash-Lite engine for instant results.🛠️ Technology StackEngine: Gemini 2.5 Flash-LiteFrontend: Vanilla JavaScript, HTML5, CSS3Storage: Chrome Local Storage APIAPI Version: v1beta🛡️ Troubleshooting[!IMPORTANT]"Split" or "Capture" Error?Ensure the extension has Site Access set to "On all sites" or "On sparx-learning.com" in the Chrome extension settings.[!TIP]Stealth UsageUse the H key if a teacher or supervisor is approaching. The A key will bring your answer back once the coast is clear.
+[READ ME (IMPORTANT).md](https://github.com/user-attachments/files/27457433/READ.ME.IMPORTANT.md)
+# Gemini Quick-Cap (Sparx Solver Edition)
+
+A Chrome Extension designed to help solve maths problems and remember answers for "Bookwork Checks." 
+
+## ✨ Features
+* **Quick Solve:** Press `Z` to capture the current screen and get an answer from Gemini AI.
+* **Bookwork Memory:** Automatically saves every answer with its unique Sparx code.
+* **Recall:** Press `X` and enter a code (e.g., 1A) to instantly see the saved answer for that question.
+
+## 🚀 Installation
+
+1. **Download the code:** Clone this repository or download the ZIP and extract it.
+2. **Open Extensions Page:** Go to `chrome://extensions/` in Google Chrome.
+3. **Enable Developer Mode:** Toggle the switch in the top-right corner.
+4. **Load Unpacked:** Click "Load unpacked" and select the folder containing these files.
+
+## 🔑 How to Add Your API Key
+
+To make this work, you need your own (free) API key from Google.
+
+1. **Get a Key:** Go to [Google AI Studio](https://aistudio.google.com/) and create a free API key.
+2. **Configure the Extension:**
+   * Right-click the **Gemini Quick-Cap** icon in your browser toolbar.
+   * Select **Options**.
+   * Paste your API key into the box and click **Save**.
+3. **Refresh:** Refresh your Sparx Maths page, and you are ready to go!
+Btw when you right click Change (this can read and chanage site data) to (when you click on the extension) and refresh you should be good to go 
+
+## Any Bugs or other anomalies please Join Our Sparx Ai discord server (https://discord.gg/NfZURCvPxF) we will fix it as fast as possible! Remember this is the beta version!
+
+
+## ⌨️ Controls
+* **Z**: Solve the problem on screen.
+* **X**: Look up a previous answer (Bookwork Check).
+* **H**: To Quickly Hide The SparxAI Box
+* **A** To Unhide SparxAI
+
+---
+*Disclaimer: For legal reasons This tool is for educational purpose so Use responsibly.*
+but really its not Have fun! or not idrc
+
+Originaly Made By ShadowCanvas814 Updated By Archive_Software 
