@@ -43,3 +43,5 @@ Save: Paste your key and click Save. Refresh your Sparx page to begin.
 "Split" Error: Ensure the extension has "Site Access" set to "On all sites" in the extension details.
 
 Not appearing: Always refresh the page after installing or updating the extension.
+
+
