@@ -1,4 +1,4 @@
-# Gemini Quick-Cap (Sparx Maths Edition)
+# Gemini Quick-Cap (Sparx Solver Edition)
 
 A Chrome Extension designed to help solve maths problems and remember answers for "Bookwork Checks." 
 
