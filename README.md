@@ -1,43 +1,70 @@
-[READ ME (IMPORTANT).md](https://github.com/user-attachments/files/27457433/READ.ME.IMPORTANT.md)
-# Gemini Quick-Cap (Sparx Solver Edition)
+# ⚡ SparxAI (Specialized Edition)
 
-A Chrome Extension designed to help solve maths problems and remember answers for "Bookwork Checks." 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Version](https://img.shields.io/badge/Version-3.0_Beta-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Chrome-orange.svg)
 
-## ✨ Features
-* **Quick Solve:** Press `Z` to capture the current screen and get an answer from Gemini AI.
-* **Bookwork Memory:** Automatically saves every answer with its unique Sparx code.
-* **Recall:** Press `X` and enter a code (e.g., 1A) to instantly see the saved answer for that question.
+**SparxAI** is an advanced AI-integrated browser extension built to streamline your workflow on Sparx Maths and Science. By leveraging the **Gemini 2.5 Flash-Lite** engine, it provides instant solutions and automated bookwork logging.
 
-## 🚀 Installation
-
-1. **Download the code:** Clone this repository or download the ZIP and extract it.
-2. **Open Extensions Page:** Go to `chrome://extensions/` in Google Chrome.
-3. **Enable Developer Mode:** Toggle the switch in the top-right corner.
-4. **Load Unpacked:** Click "Load unpacked" and select the folder containing these files.
-
-## 🔑 How to Add Your API Key
-
-To make this work, you need your own (free) API key from Google.
-
-1. **Get a Key:** Go to [Google AI Studio](https://aistudio.google.com/) and create a free API key.
-2. **Configure the Extension:**
-   * Right-click the **Gemini Quick-Cap** icon in your browser toolbar.
-   * Select **Options**.
-   * Paste your API key into the box and click **Save**.
-3. **Refresh:** Refresh your Sparx Maths page, and you are ready to go!
-Btw when you right click Change (this can read and chanage site data) to (when you click on the extension) and refresh you should be good to go 
-
-## Any Bugs or other anomalies please Join Our Sparx Ai discord server (https://discord.gg/NfZURCvPxF) we will fix it as fast as possible! Remember this is the beta version!
-
-
-## ⌨️ Controls
-* **Z**: Solve the problem on screen.
-* **X**: Look up a previous answer (Bookwork Check).
-* **H**: To Quickly Hide The SparxAI Box
-* **A** To Unhide SparxAI
+> [!IMPORTANT]
+> **Beta Version:** We are currently in active development. Please report any anomalies in our [Discord Server](https://discord.gg/NfZURCvPxF).
 
 ---
-*Disclaimer: For legal reasons This tool is for educational purpose so Use responsibly.*
-but really its not Have fun! or not idrc
+
+## ✨ Key Features
+
+* **Quick Solve:** Press `Z` to capture the current screen and get an answer from Gemini AI instantly.
+* **Bookwork Memory:** Automatically saves every answer with its unique Sparx code for future checks.
+* **Recall System:** Press `X` on Sparx Maths to instantly see a saved answer for a specific code.
+* **Stealth Mode:** Use instant hotkeys to hide the UI if a teacher or supervisor approaches.
+
+---
+
+## 🎮 Controls & Commands
+
+| Key | Action | Context |
+| :--- | :--- | :--- |
+| `Z` | **Solve** | Captures the screen and generates an answer. |
+| `X` | **Recall** | Looks up a saved code for Bookwork Checks (Maths Only). |
+| `H` | **Stealth Hide** | Instantly hides the SparxAI overlay. |
+| `A` | **Unhide** | Restores the SparxAI overlay to view. |
+
+---
+
+## 🚀 Installation & Setup
+
+1.  **Download:** Clone this repository or download the ZIP and extract the contents.
+2.  **Chrome Extensions:** Open `chrome://extensions/` in your browser.
+3.  **Developer Mode:** Toggle the switch in the top-right corner.
+4.  **Load Unpacked:** Click "Load unpacked" and select your extension folder.
+
+### 🔑 Adding Your API Key
+1.  **Generate Key:** Create a free API key at [Google AI Studio](https://aistudio.google.com/).
+2.  **Configure:** Right-click the **SparxAI** icon in your toolbar, select **Options**, and paste your key.
+3.  **Permissions:** Right-click the icon, go to "This can read and change site data," and ensure it is set correctly for your site. Refresh the page after changing this setting.
+
+---
+
+## 🛠️ Intelligent Site Switching
+
+SparxAI dynamically adapts its interface based on where you are working:
+* **📗 SparxMathsAI:** Features full Bookwork Memory and code tracking.
+* **📘 SparxScienceAI:** Optimized for speed; removes bookwork clutter for a lean experience.
+
+---
+
+## 🛡️ Troubleshooting
+
+> [!TIP]
+> **"Split" or "Capture" Error?**
+> Ensure the extension has **Site Access** set to "On all sites" or "On sparx-learning.com" in the Chrome extension settings. Always refresh the page after installation.
+
+---
+
+## 📄 Credits
+* **Main Creator:** ShadowCanvas814
+* **Co-Creator:** Archive_Software
+
+*Disclaimer: This tool is for educational purposes Use responsibly Or Not i Couldnt Care Less
 
 Originaly Made By ShadowCanvas814 Updated By Archive_Software 
