@@ -23,13 +23,13 @@ Paste your API key into the box and click Save.
 Refresh: Refresh your Sparx Maths page, and you are ready to go!
 Btw when you right click Change (this can read and chanage site data) to (when you click on the extension) and refresh you should be good to go 
 
-* Any Bugs or other anomalies please Join Our Sparx Ai discord server (https://discord.gg/NfZURCvPxF) we will fix it as fast as possible! Remember this is the beta version!
+* 🐛Any Bugs or other anomalies please Join Our Sparx Ai discord server (https://discord.gg/NfZURCvPxF) we will fix it as fast as possible! Remember this is the beta version!
 ## ⌨️ Controls
 * Z: Solve the problem on screen.
 * X: Look up a previous answer (Bookwork Check).
 
 ---
-* Disclaimer: For legal reasons This tool is for educational purpose so Use responsibly.
+* ❗Disclaimer: For legal reasons This tool is for educational purpose so Use responsibly.
 but really its not Have fun! or not idrc
 
 Originaly Made By ShadowCanvas814 Updated By Archive_Software
