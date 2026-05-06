@@ -1,43 +1,45 @@
-[READ ME (IMPORTANT).md](https://github.com/user-attachments/files/27457433/READ.ME.IMPORTANT.md)
-# Gemini Quick-Cap (Sparx Solver Edition)
+SparxAI (Maths & Science Edition)
+A powerful Chrome Extension designed to solve problems on Sparx Maths and Sparx Science using Gemini 2.5 Flash-Lite. It includes built-in memory for "Bookwork Checks" and a "Stealth Mode" for discreet use.
 
-A Chrome Extension designed to help solve maths problems and remember answers for "Bookwork Checks." 
+✨ Features
+Dual Identity: Automatically switches between SparxMathsAI and SparxScienceAI depending on the site you are visiting.
 
-## ✨ Features
-* **Quick Solve:** Press `Z` to capture the current screen and get an answer from Gemini AI.
-* **Bookwork Memory:** Automatically saves every answer with its unique Sparx code.
-* **Recall:** Press `X` and enter a code (e.g., 1A) to instantly see the saved answer for that question.
+Quick Solve: Press Z to capture the current problem and get a solution instantly.
 
-## 🚀 Installation
+Bookwork Memory (Maths Only): Automatically saves every answer with its unique Sparx code (e.g., 1A).
 
-1. **Download the code:** Clone this repository or download the ZIP and extract it.
-2. **Open Extensions Page:** Go to `chrome://extensions/` in Google Chrome.
-3. **Enable Developer Mode:** Toggle the switch in the top-right corner.
-4. **Load Unpacked:** Click "Load unpacked" and select the folder containing these files.
+Instant Recall: Press X on Sparx Maths to look up a previously saved answer for Bookwork Checks.
 
-## 🔑 How to Add Your API Key
+Stealth Mode: Instantly hide or show the overlay using quick keys.
 
-To make this work, you need your own (free) API key from Google.
+⌨️ Controls
+Z: Solve the problem on screen.
 
-1. **Get a Key:** Go to [Google AI Studio](https://aistudio.google.com/) and create a free API key.
-2. **Configure the Extension:**
-   * Right-click the **Gemini Quick-Cap** icon in your browser toolbar.
-   * Select **Options**.
-   * Paste your API key into the box and click **Save**.
-3. **Refresh:** Refresh your Sparx Maths page, and you are ready to go!
-Btw when you right click Change (this can read and chanage site data) to (when you click on the extension) and refresh you should be good to go 
+X: Recall a saved answer (Maths site only).
 
-## Any Bugs or other anomalies please Join Our Sparx Ai discord server (https://discord.gg/NfZURCvPxF) we will fix it as fast as possible! Remember this is the beta version!
+H: Hide the window instantly (Stealth Mode).
 
+A: Appear (Bring the window back).
 
-## ⌨️ Controls
-* **Z**: Solve the problem on screen.
-* **X**: Look up a previous answer (Bookwork Check).
-* **H**: To Quickly Hide The SparxAI Box
-* **A**: To Unhide SparxAI
+🚀 Installation
+Download: Clone this repository or download and extract the ZIP file.
 
----
-*Disclaimer: For legal reasons This tool is for educational purpose so Use responsibly.*
-but really its not Have fun! or not idrc
+Extensions Page: Open Chrome and go to chrome://extensions/.
 
-Originaly Made By ShadowCanvas814 Updated By Archive_Software 
+Developer Mode: Toggle "Developer mode" on in the top-right corner.
+
+Load Unpacked: Click "Load unpacked" and select the folder containing these files.
+
+🔑 Configuration (Required)
+To protect your privacy, you must use your own API key.
+
+Get a Key: Obtain a free API key from Google AI Studio.
+
+Add Key: Right-click the SparxAI icon in your browser toolbar and select Options.
+
+Save: Paste your key and click Save. Refresh your Sparx page to begin.
+
+⚠️ Troubleshooting
+"Split" Error: Ensure the extension has "Site Access" set to "On all sites" in the extension details.
+
+Not appearing: Always refresh the page after installing or updating the extension.
