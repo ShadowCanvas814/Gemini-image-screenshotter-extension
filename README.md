@@ -25,6 +25,9 @@ To make this work, you need your own (free) API key from Google.
    * Paste your API key into the box and click **Save**.
 3. **Refresh:** Refresh your Sparx Maths page, and you are ready to go!
 
+## Any Bugs or other anomalies please dm us on discord at shadowtoby5820 or shadowxdlol121_48323 we will fix it as fast as possible! Remember this is the beta version!
+
+
 ## ⌨️ Controls
 * **Z**: Solve the problem on screen.
 * **X**: Look up a previous answer (Bookwork Check).
