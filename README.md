@@ -51,6 +51,12 @@ SparxAI dynamically adapts its interface based on where you are working:
 * **📗 SparxMathsAI:** Focuses on Bookwork Memory, Question Codes, and full solutions.
 * **📘 SparxScienceAI:** Optimized for speed; uses a horizontal `a) | b) | c)` layout to save space.
 
+---
+
+## make sure to check out our other work at https://github.com/shadowgamingyt98980-commits/RevisionAI
+
+---
+
 ## 📄 Credits
 * **Lead-Creator:** ShadowCanvas814
 * **Co-Creator:** Archive_Software
