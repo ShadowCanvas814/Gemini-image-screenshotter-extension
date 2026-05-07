@@ -18,6 +18,8 @@
 * **Recall System:** Press `X` on Sparx Maths to see saved answers.
 * **Stealth Mode:** Instant hotkeys to hide UI from teachers.
 * **Unit Detection:** Captures units (kg, m, %) without the AI yapping in paragraphs.
+* **model switcher** allows for various gemini models to be selected.
+* **on and off mode** allows for typing without the fuss of accidentally activating the extension!
 
 ---
 
