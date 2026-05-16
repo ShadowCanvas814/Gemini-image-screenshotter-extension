@@ -7,7 +7,7 @@
 **SparxAI** is an advanced AI-integrated browser extension built to streamline your workflow on Sparx Maths and Science. By leveraging the **Gemini 2.5 Flash-Lite** engine, it provides instant solutions and automated bookwork logging.
 
 > [!IMPORTANT]
-> **⚠️ Beta Version:** Active development in progress. Use responsibly.
+> **⚠️ Beta Version:** Active development in progress. "Use responsibly". for legal reasons we do not care what you do
 
 ---
 
